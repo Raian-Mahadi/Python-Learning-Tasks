@@ -8,7 +8,8 @@ candidates = [
     "4. Sinthy"
 ]
 
-print(candidates)
+for c in candidates:
+    print(c)
 
 users = []
 votes = []
